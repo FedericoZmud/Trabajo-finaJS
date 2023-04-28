@@ -1,0 +1,29 @@
+body{
+    width: 100%;
+    max-width: 600px;
+    margin: 100px auto;
+    text-align: center;
+}
+h2{
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+input,
+select{
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+}
+select{
+    width: 100px;
+    margin-left: 10px;
+    letter-spacing: 2px;
+}
+span{
+    color: crimson;
+    font-size: 2em;
+    font-weight: 900;
+}
+main {
+    background-color:aqua;
+}
